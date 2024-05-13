@@ -1,3 +1,6 @@
+https://colab.research.google.com/drive/1AmQgddy6jl866rGHZqoVSBHBMiQzaTno?usp=sharing
+
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
