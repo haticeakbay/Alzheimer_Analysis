@@ -25,7 +25,6 @@ pd.set_option('display.width', None)
 pd.set_option('display.max_rows',None)
 pd.set_option('display.float_format', lambda x:'%.3f'%x)
 
-#df=pd.read_csv('/kaggle/input/cirrhosis-prediction-dataset/cirrhosis.csv')
 df=pd.read_csv('/content/alzheimer.csv') #uploaded file to colab but you can reach out to dataset via this link https://www.kaggle.com/datasets/brsdincer/alzheimer-features 
 df.head()
 
